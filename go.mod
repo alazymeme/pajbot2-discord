@@ -15,6 +15,7 @@ require (
 	github.com/pajbot/commandmatcher v1.0.1
 	github.com/pajbot/testhelper v1.0.0
 	github.com/pajbot/utils v1.0.0
+	github.com/pajlada/lidl-normalize v0.0.0-20180520094422-e6eb1186f156
 	github.com/pajlada/stupidmigration v0.0.0-20190210111805-ed60e42e8f73
 	github.com/stretchr/testify v1.6.1 // indirect
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9 // indirect
